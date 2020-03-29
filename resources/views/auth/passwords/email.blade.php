@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background:url('images/SMS.png'); background-size: cover; background-repeat: no-repeat; background-position:center; filter: blur(6px);"></div>
+<div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background:url('../images/SMS.png'); background-size: cover; background-repeat: no-repeat; filter: blur(6px);"></div>
 
 <div class="flex flex-wrap rounded w-full max-w-md mx-auto px-4">
     <svg class="w-full h-24 sm:w-1/4 sm:h-full md:w-1/4 lg:w-1/4" version="1.1" id="Capa_1" viewBox="0 0 37.463 37.463" style="enable-background:new 0 0 37.463 37.463;">
