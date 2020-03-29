@@ -23,6 +23,10 @@ This Project is a simple role and permission based school management system usin
 -----------------------------------
 01. `spatie/laravel-permission`
 
+### Resources & Reference File
+------------------------------
+01. `Sample Database File` => `sms1.sql`
+02. `Web Portal & Project Snapshots` => `Projects_Screenshots.rar`
 
 ### Testing & Credentials
 -------------------------
