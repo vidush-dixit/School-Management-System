@@ -5,7 +5,7 @@ This Project is a simple role and permission based school management system usin
 
 ### Installation
 ----------------
-01. `git clone https://github.com/parvez-git/laravel-school-management-system.git`
+01. `git clone https://github.com/vidush-dixit/School-Management-System.git`
 02. `cd laravel-school-management-system`
 03. `composer install`
 04. `npm install`
@@ -32,7 +32,7 @@ This Project is a simple role and permission based school management system usin
 -------------------------
 The application can be tested using below credentials which are seeded in the database :
 
--   Admin -> email = admin@demo.com, password = 12345678 and Role: Admin
--   Teacher -> email = teacher@demo.com, password = 12345678 and Role: Teacher
--   Parent -> email = parent@demo.com, password = 12345678 and Role: Parent
--   Student -> email = student@demo.com, password = 12345678 and Role: Student
+-   Admin   -> email = admin@demo.com, password = 12345678      & Role: Admin
+-   Teacher -> email = teacher@demo.com, password = 12345678    & Role: Teacher
+-   Parent  -> email = parent@demo.com, password = 12345678     & Role: Parent
+-   Student -> email = student@demo.com, password = 12345678    & Role: Student
